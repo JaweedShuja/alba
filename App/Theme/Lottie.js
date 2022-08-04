@@ -1,0 +1,17 @@
+export default {
+  // left: require('../Assets/Images/Lottie/left.json'),
+  // right: require('../Assets/Images/Lottie/right.json'),
+  // tap: require('../Assets/Images/Lottie/tap.json'),
+  // logo: require('../Assets/Images/Lottie/smileLogo.json'),
+  // genderIcon: require('../Assets/Images/Lottie/icon.json'),
+  // genderIcon1: require('../Assets/Images/Lottie/icon2.json'),
+  // translatedButtonactive: require('../Assets/Images/Lottie/translatedButtonactive.json'),
+  // translatedButtondeactive: require('../Assets/Images/Lottie/translatedButtondeactive.json'),
+  // tryAgain: require('../Assets/Images/Lottie/tryagain.json'),
+  audio_uploading: require('../Assets/Images/Lottie/audio_uploading.json'),
+  audio_play_pause: require('../Assets/Images/Lottie/audio_play_pause.json'),
+  audio_equlizer: require('App/Assets/Images/Lottie/audio_equlizer.json'),
+  audio_try_agian: require('../Assets/Images/Lottie/audio_try_agian.json'),
+  // text_try_agian: require('../Assets/Images/Lottie/text_try_again.json'),
+  // diamonds: require('../Assets/Images/Lottie/diamonds.json'),
+};

@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1097684528702",
+    "project_id": "alba-ffb18",
+    "storage_bucket": "alba-ffb18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097684528702:android:dd339c11c3b001cb302b6f",
+        "android_client_info": {
+          "package_name": "com.improver.alba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097684528702-ajmo3m9ov8lgjbq5cdumd2nbpggr8cec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improver.alba",
+            "certificate_hash": "08990fbcd847111a95a3b60c065003cd25d18a49"
+          }
+        },
+        {
+          "client_id": "1097684528702-jc6mmbr2oj2vrcbbbue4qmkl9g9j0tfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improver.alba",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1097684528702-tiss3n3qpac417uuj001j7hi54psdu6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.improver.alba",
+            "certificate_hash": "f063783659993b7be223e788cb59071ea6aeaf70"
+          }
+        },
+        {
+          "client_id": "1097684528702-66tcpd73g2r4ddf08v7hc7a4g37897ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwMIM1nuRW-WApMffmIzt-C6ezPd3GlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097684528702-66tcpd73g2r4ddf08v7hc7a4g37897ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097684528702-bfkrkvdneb45re52vgh4fmiu9ioko8su.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.improver.alba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
